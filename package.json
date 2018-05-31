@@ -2,6 +2,7 @@
   "name": "teads-demo",
   "version": "0.1.0",
   "private": true,
+  "homepage" : "https://ebuzzing.github.io/react-format-demo/public/",
   "dependencies": {
     "react": "^16.4.0",
     "react-dom": "^16.4.0",
