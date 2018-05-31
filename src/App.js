@@ -54,7 +54,7 @@ class TeadsTag extends React.Component {
         s.id = "teads-test";
         s.className = "teads"
         s.setAttribute("data-insertion-1", "1550");
-        s.src = "//cdn.teads.tv/js/tags/tag-milibris.js";
+        s.src = "https://cdn.teads.tv/js/tags/tag-milibris.js";
 
         document.body.appendChild(s);
 
