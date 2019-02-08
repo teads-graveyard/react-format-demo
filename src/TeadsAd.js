@@ -21,7 +21,7 @@ class TeadsAd extends Component {
       delete window.teads.page;
       delete window.teadsscript;
       document.querySelectorAll(".teads-inline-style").forEach(function(e) {e.remove()});
-      document.querySelectorAll("script[src='//cdn.teads.tv/media/format/v3/teads-format.min.js']").forEach(function(e){e.remove()})
+      document.querySelectorAll("script[src='//a.teads.tv/media/format/v3/teads-format.min.js']").forEach(function(e){e.remove()})
     } catch (e) {}
   }
 
